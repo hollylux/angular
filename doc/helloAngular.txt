@@ -1,0 +1,10 @@
+
+
+## Client cmd quick start
+	https://angular.io/docs/ts/latest/cli-quickstart.html
+	
+		cd C:\blu\ws\running\angular
+		npm install -g @angular/cli
+		ng new helloAngular
+		cd helloAngular
+		ng serve --open

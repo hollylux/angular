@@ -1,0 +1,12 @@
+
+
+
+## Setup
+	[local dev env.] https://angular.io/docs/ts/latest/guide/setup.html
+		git clone https://github.com/angular/quickstart.git quickstart
+		cd quickstart
+		npm install
+		npm start
+		
+	[online play] https://angular.io/docs/ts/latest/quickstart.html
+	
